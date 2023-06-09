@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "使用jekyll创建一个blog"
-
+date:   2023-06-09 10:25:55 +0800
 ---
 #### 使用jekyll创建一个blog：
 1.安装Ruby+Devkit  
